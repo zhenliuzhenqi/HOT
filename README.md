@@ -1,3 +1,3 @@
 # HOT
 Hyperspectral object tracking
-HA-Net and SiamHYPER Will be released soon!
+HA-Net and SiamHYPER will be released soon!
